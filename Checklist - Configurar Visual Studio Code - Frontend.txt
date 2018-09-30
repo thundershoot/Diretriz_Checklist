@@ -1,0 +1,5 @@
+** Configurar Visual Studio Code - Frontend **
+
+1 - Ocultar Arquivo no VSC
+	> File > Preferences > Settings > User Settings > ... > Open Settings.json
+	
