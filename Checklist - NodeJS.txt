@@ -1,0 +1,23 @@
+** Instalar NodeJS **
+
+- www.nodejs.org
+- Usar o instaler e seguir os passos.
+- Após Instalar abrir terminal
+- Digitar node -v
+- Digitar npm -v
+
+** Instalar Tools **
+- Angular Cli
+- npm install -g @angular/cli
+- ng -v
+
+- Gulp Cli
+- npm install gulp-cli -g
+- gulp -v
+
+- Grunt Cli
+- npm install -g grunt-cli
+- grunt -v
+
+- Bower
+- npm install -g bower
