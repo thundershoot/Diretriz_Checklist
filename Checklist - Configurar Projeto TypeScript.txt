@@ -1,0 +1,17 @@
+** Configurar projeto TypeSpript**
+
+1 - criar arquivo tsconfig.json
+2 - Definir instrucoes para o compilador TypeScript:
+	{
+		"compilerOptions": {
+		 "target": "es5",
+		 "module": "commonjs",
+		 "sourceMap": true   
+		}
+	}
+3 - Criar tarefa no Visual Studio Code para compilar TypeScript:
+	Visual Studio Code > Command Pallete > Task: Configure Task > 
+	tsc: build - tsconfig.json
+
+** Usage - Compilar Projeto **
+- Ctrl + Shift + B > tsc - Build - tsconfig.json	
